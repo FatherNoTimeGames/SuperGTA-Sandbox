@@ -22,7 +22,7 @@
 
 ## Open decisions
 
-- **Next task** — Decide when the player gets the first power point. Use an opening sandbox encounter to compare starting with a power purchase and earning the first point through play. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions. Agree on the first prototype question and its success criteria once the starting power model is defined.
+- **Next task** — Agree on the smallest playable opening sequence and its success criteria. Pick a human-scale activity that is worth doing before the first level-up and shows what changes after the first power purchase. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 

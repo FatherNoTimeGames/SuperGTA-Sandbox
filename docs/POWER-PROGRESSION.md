@@ -8,6 +8,7 @@
 - Starting powers should feel like Witcher Signs in scale and immediate utility. A short fire blast, a brief speed burst, and a jump onto a one-story roof illustrate the intended scale.
 - Human attributes and ordinary skills improve through practice independently of power points, including on a build fully invested in a capstone. They improve the performance of existing actions through numeric bonuses.
 - Sandbox actions feed one shared character XP track, including actions that also train individual skills. Each character level grants one power point.
+- The opening starts with human-scale sandbox play. The first level-up earns the first power point through ordinary sandbox XP, so players learn what their character and equipment can do before adding a power.
 - Keep power points limited. Each purchase should change how a build approaches situations and compete with other worthwhile purchases. XP pacing, purchase costs, and the total budget are open.
 - Keep guns and cars useful across most of progression. Evaluate powers by how they change when a player wants to shoot, drive, or use an ordinary route.
 - The speedster capstone is a manual toggle. While active, it slows the surrounding world and preserves the familiar pace and handling of the player's existing superspeed. The effect stays active when the player stops moving and lasts until toggled off, with unlimited duration and no resource drain.
@@ -26,5 +27,4 @@
 - How exclusive should a capstone be? Compare committing every point to one path with leaving room for a few starter powers while reserving the highest tier for a single path.
 - Which numeric bonuses belong to attributes or activity skills? Resolve overlapping candidates such as perception and weapon skill before setting the stat list. Decide whether human focus affects time.
 - Decide how the speedster's world slowdown would work in a shared simulation if multiplayer is added.
-- Does the starting level grant the first power point, or does the player earn it on the first level-up?
 - How far can one build broaden? The exact roster, skill thresholds, and whether a character can reach the top of several paths are open. Combining top-tier strength, movement, and durability would be a very late-game possibility if supported.
