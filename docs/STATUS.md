@@ -32,9 +32,11 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 
 **Provisional** — Set the job at an impound lot or a comparable supervised facility where staff would report the vehicle removal to police.
 
+**Provisional** — A short cinematic establishes supers as a familiar part of the city, may introduce a widely known hero and villain, and sets up the player's initial role. A separate explanatory event accompanies the first level-up and first power point, following the [human-scale opening](POWER-PROGRESSION.md#confirmed). Its cause, setting, and connection to a longer story are open. Waking up at a government lab is one candidate.
+
 ## Open decisions
 
-- **Next task** — Decide whether the game has a main story and what role a major event would play in it. Then define the smallest playable version of the opening job and its success criteria, including how stealth affects the pursuit. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
+- **Next task** — Decide whether the first-power event leads into a main story or completes the opening on its own. Then define the smallest playable version of the opening job and its success criteria, including how stealth affects the pursuit. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 
