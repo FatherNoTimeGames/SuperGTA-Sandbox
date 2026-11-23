@@ -34,7 +34,7 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 
 ## Open decisions
 
-- **Next task** — Define the smallest playable version of the opening job and its success criteria. Decide what a stealthy approach changes about the pursuit and how the player sees that difference. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
+- **Next task** — Decide whether the game has a main story and what role a major event would play in it. Then define the smallest playable version of the opening job and its success criteria, including how stealth affects the pursuit. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 
