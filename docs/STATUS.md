@@ -10,14 +10,9 @@
 
 - Original single-player, third-person superhero sandbox with Saints Row IV as the main gameplay reference. Satisfying superhuman movement and combat drive play in a persistent city.
 - The player starts as an inexperienced superhuman in a contemporary city with established heroes, villains, and institutions that have adapted to supers. The player can act heroically, criminally, or somewhere in between.
-- The sandbox drives progression. Players can pursue goals while ignoring the story. Conventional weapons, vehicles, and human-scale activities have distinct roles alongside powers. Character, power, vehicle, and property customization are design priorities.
+- The sandbox drives progression. Players can pursue goals while ignoring the story. Human-scale activities have distinct roles alongside powers. Character, power, vehicle, and property customization are design priorities.
 - PC is the primary platform. Steam Deck usability and performance matter. Keep the scope achievable for solo development.
-
-### Starting power baseline
-
-Supers have human-scale physical capabilities by default. A power can create a specific exception. Direct street-to-rooftop shortcuts belong to powers that enable them and distinguish mobility specialists. This keeps ordinary routes and vehicles useful and gives each specialty a distinct way through the same block.
-
-Starting powers should feel like Witcher Signs in scale and immediate utility. Examples include a short-range fire blast for a pyro, a brief burst of speed for a speedster, and a jump onto a one-story roof for a mobility specialist. These illustrate the starting scale. The power roster and exact mechanics remain open.
+- The [power progression decisions](POWER-PROGRESSION.md#confirmed) set the starting baseline and the goals for power points, guns, and cars.
 
 ## Provisional direction
 
@@ -27,8 +22,9 @@ Starting powers should feel like Witcher Signs in scale and immediate utility. E
 
 ## Open decisions
 
-- **Next task** — Decide how much a starting specialty can broaden over progression. Compare deepening one specialty, pairing a defining specialty with a few secondary abilities, and acquiring multiple specialties that can be swapped or combined. Use the same city-block encounter to compare routes, the role of ordinary tools, and the cost of supporting combinations. Then agree on the first prototype question and its success criteria.
+- **Next task** — Work through the [open power decisions](POWER-PROGRESSION.md#open), starting with durability and gunfire. Use the same encounter to compare the value of cover, firearms, driving, and powered movement. Agree on the first prototype question and its success criteria once the starting power model is defined.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
+- Multiplayer is a possible addition. Its format and release scope are open.
 
 ## Deferred
 
