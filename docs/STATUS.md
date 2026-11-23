@@ -20,17 +20,21 @@
 - Optional or sandbox-integrated narrative. Factions, businesses, property, reputation, and relationships are candidates for long-term progression.
 - Environmental damage should create gameplay consequences such as new routes or changed cover. Scope, persistence, and repair are open.
 
-### Opening job
+## Opening job
 
 Use both driving and on-foot play before the first power purchase. The proposed tutorial is one vehicle recovery job with three beats.
 
 1. Drive to the site and learn basic driving, navigation, and exploration.
 2. Reach the target vehicle using stealth or gun combat. Introduce both options when the player arrives.
-3. Drive the vehicle back and introduce police presence and the wanted system.
+3. Drive the vehicle back and experience a police pursuit that introduces the wanted system.
+
+**Confirmed** — Every approach leads to a pursuit on the return drive. The player can reach the car undetected, and the unauthorized removal is reported as it leaves the site.
+
+**Provisional** — Set the job at an impound lot or a comparable supervised facility where staff would report the vehicle removal to police.
 
 ## Open decisions
 
-- **Next task** — Decide what triggers a wanted response on the return drive, including what a clean approach changes. Then define the smallest playable version of the opening job and its success criteria. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
+- **Next task** — Define the smallest playable version of the opening job and its success criteria. Decide what a stealthy approach changes about the pursuit and how the player sees that difference. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 
