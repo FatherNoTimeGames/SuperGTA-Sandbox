@@ -13,6 +13,12 @@
 - The sandbox drives progression. Players can pursue goals while ignoring the story. Conventional weapons, vehicles, and human-scale activities have distinct roles alongside powers. Character, power, vehicle, and property customization are design priorities.
 - PC is the primary platform. Steam Deck usability and performance matter. Keep the scope achievable for solo development.
 
+### Starting power baseline
+
+Supers have human-scale physical capabilities by default. A power can create a specific exception. Direct street-to-rooftop shortcuts belong to powers that enable them and distinguish mobility specialists. This keeps ordinary routes and vehicles useful and gives each specialty a distinct way through the same block.
+
+Starting powers should feel like Witcher Signs in scale and immediate utility. Examples include a short-range fire blast for a pyro, a brief burst of speed for a speedster, and a jump onto a one-story roof for a mobility specialist. These illustrate the starting scale. The power roster and exact mechanics remain open.
+
 ## Provisional direction
 
 - A compact, reactive city with a small cast of recognizable supers, systemic encounters and progression, and styling that draws selectively on Silent Hill. Godot is the intended engine.
@@ -21,7 +27,7 @@
 
 ## Open decisions
 
-- **Next task** — Decide what the player can do with powers on an ordinary city block from the start and as they grow. Compare a deep innate specialty, acquired swappable or combinable powers, and a modest shared baseline with specialization. Use the same encounter to judge rooftop access, durability, the role of driving and firearms, how damage changes routes, and the cost of supporting each option. The first prototype and its success criteria follow this decision.
+- **Next task** — Decide how much a starting specialty can broaden over progression. Compare deepening one specialty, pairing a defining specialty with a few secondary abilities, and acquiring multiple specialties that can be swapped or combined. Use the same city-block encounter to compare routes, the role of ordinary tools, and the cost of supporting combinations. Then agree on the first prototype question and its success criteria.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 
 ## Deferred
