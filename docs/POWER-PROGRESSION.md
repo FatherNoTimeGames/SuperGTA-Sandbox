@@ -9,6 +9,7 @@
 - Human attributes and ordinary skills improve through practice independently of power points, including on a build fully invested in a capstone. They improve the performance of existing actions through numeric bonuses.
 - Keep power points limited. Each purchase should change how a build approaches situations and compete with other worthwhile purchases. Exact award rates, costs, and the total budget are open.
 - Keep guns and cars useful across most of progression. Evaluate powers by how they change when a player wants to shoot, drive, or use an ordinary route.
+- The speedster capstone is a manual toggle. While active, it slows the surrounding world and preserves the familiar pace and handling of the player's existing superspeed. The effect stays active when the player stops moving and lasts until toggled off, with unlimited duration and no resource drain.
 
 ## Provisional
 
@@ -17,12 +18,11 @@
 - Spending points on a basic special power such as fire or telekinesis could open a separate skill that grows through use and qualifies the player for new abilities. Advanced feats such as sustained flight could combine physical and special-power prerequisites.
 - Durability could be its own special power. Early benefits should feel plausible at human scale, such as recovering quickly from a hard landing or staying on your feet after a heavy impact. Gunfire would still be dangerous at that stage.
 - The strongest abilities could be capstones reserved for players who commit most or all of their power points to one path. Invincibility is a candidate durability capstone. Wide builds would trade access to the highest tier for more ways to solve a problem.
-- The proposed speedster capstone preserves the familiar pace and handling of the player's existing superspeed while the surrounding world slows down. The specialty gains time to react and act within fast movement.
 
 ## Open
 
 - How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
 - How exclusive should a capstone be? Compare committing every point to one path with leaving room for a few starter powers while reserving the highest tier for a single path.
 - Which numeric bonuses belong to attributes or activity skills? Resolve overlapping candidates such as perception and weapon skill before setting the stat list. Decide whether human focus affects time.
-- Does the speedster capstone slow the world only during superspeed movement, or does the player enter a mode that also affects aiming and interaction? Duration and the multiplayer implications are open.
+- Decide how the speedster's world slowdown would work in a shared simulation if multiplayer is added.
 - How are power points earned, and how far can one build broaden? The exact roster, skill thresholds, and whether a character can reach the top of several paths are open. Combining top-tier strength, movement, and durability would be a very late-game possibility if supported.
