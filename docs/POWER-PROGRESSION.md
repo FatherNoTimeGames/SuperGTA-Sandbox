@@ -14,8 +14,10 @@
 - Using an ordinary physical skill can improve it gradually. A sufficient skill level can qualify the player to spend power points on a superhuman feat such as lifting a car or dashing. A feat can have multiple prerequisites when each contributes to what it lets the player do.
 - Spending points on a basic special power such as fire or telekinesis could open a separate skill that grows through use and qualifies the player for new abilities. Advanced feats such as sustained flight could combine physical and special-power prerequisites.
 - Durability could be its own special power. Early benefits should feel plausible at human scale, such as recovering quickly from a hard landing or staying on your feet after a heavy impact. Gunfire would still be dangerous at that stage.
+- The strongest abilities could be capstones reserved for players who commit most or all of their power points to one path. Invincibility is a candidate durability capstone. Wide builds would trade access to the highest tier for more ways to solve a problem.
 
 ## Open
 
-- How should a durability specialist handle gunfire as the power grows? Compare continued vulnerability, situational protection, and strong passive resistance against the value of guns and cover.
+- How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
+- How exclusive should a capstone be? Compare committing every point to one path with leaving room for a few starter powers while reserving the highest tier for a single path.
 - How are power points earned, and how far can one build broaden? The exact roster, skill thresholds, and whether a character can reach the top of several paths are open. Combining top-tier strength, movement, and durability would be a very late-game possibility if supported.
