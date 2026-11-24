@@ -18,14 +18,20 @@
 ## Provisional direction
 
 - A compact, reactive city with a small cast of recognizable supers, systemic encounters and progression, and styling that draws selectively on Silent Hill. Godot is the intended engine.
-- Optional or sandbox-integrated narrative. Factions, reputation, and relationships are candidates for long-term progression.
+- Optional or sandbox-integrated narrative. Reputation and relationships are candidates for long-term progression.
 - Environmental damage should create gameplay consequences such as new routes or changed cover. Scope, persistence, and repair are open.
 
 ## Immediate scope
 
 **Provisional** — If a smaller playable milestone is needed, focus on a hero/villain sandbox at human scale with ordinary movement, equipment, and vehicles, plus destructible environments where damage changes play. Power fantasies and their combinations remain part of the release design discussion.
 
-**Proposed for later** — Hero or criminal empire-building, map and territory control, and buying and customizing homes and businesses. Revisit these proposals once the immediate sandbox scope is defined.
+### Proposed mechanics
+
+Revisit these proposals once the immediate sandbox scope is defined.
+
+- Faction mechanics, hero or criminal empire-building, and map and territory control.
+- Buying and customizing homes and businesses.
+- Recurring rivals inspired by the Nemesis system, with personal histories, changes in behavior, and rematches. The specific design and its overlap with patent claims are open.
 
 ## Opening job
 
@@ -44,7 +50,7 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 ## Open decisions
 
 - **Next task** — Decide whether to use the smaller human-scale milestone and choose the smallest scenario that tests how destruction changes a heroic or villainous approach. Use the [power fantasies](POWER-PROGRESSION.md#power-fantasy-candidates) and their combinations to guide the later 1.0 roster, scaling stats, and first-power reveal.
-- Decide how established supers act independently, what public reputation tracks, and how central factions are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
+- Decide how established supers act independently and what public reputation tracks. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 
 ## Deferred
