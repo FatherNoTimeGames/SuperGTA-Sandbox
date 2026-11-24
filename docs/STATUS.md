@@ -62,4 +62,4 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 - Unrestricted powered travel could crowd out everyday driving. Broad power sets and widespread destruction multiply the traversal, encounter, and NPC states that need to work together.
 - There is no playable build or measured performance budget yet.
 
-**Last consistency audit** — Initial repository baseline `de93f391e386ba975e78aa74ec1ba732a856675f`. The baseline contained only the root README.
+**Last consistency audit** — 2026-11-24 at `b95ad4ade18345df5942dab34b5ef0948caac63d`. Reviewed project docs, internal links, dependency scope, and consistency across design decisions.
