@@ -37,7 +37,7 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 
 ## Open decisions
 
-- **Next task** — Decide how the first-power event lets the player discover and try their ability. Then define the smallest playable opening sequence and its success criteria, including how stealth affects the pursuit. See the [open power decisions](POWER-PROGRESSION.md#open) for remaining progression questions.
+- **Next task** — Define a small set of starting powers and their interactions before designing the first-power reveal. Start with the [telekinetic push](POWER-PROGRESSION.md#provisional). Then decide how the reveal can support the player's choice and define the smallest playable opening sequence, including how stealth affects the pursuit.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 

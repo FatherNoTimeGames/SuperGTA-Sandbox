@@ -18,11 +18,13 @@
 - Candidate attribute effects include strength for melee damage, speed for walking and running pace and ordinary dodge or dash recovery, and endurance for stamina. Accuracy or perception could help with weapon spread. Candidate activity skills include melee weapons, martial arts, guns, swimming, and driving. Perception could affect how long an existing focus effect lasts, if supported.
 - An attribute or skill threshold can qualify the player to spend power points on a superhuman feat such as lifting a car or dashing. A feat can require several stats when each contributes to what it lets the player do.
 - Spending points on a basic special power such as fire or telekinesis could open a separate skill that grows through use and qualifies the player for new abilities. Advanced feats such as sustained flight could combine physical and special-power prerequisites.
+- A short, directed push is the preferred starter for telekinesis, with the feel of a Star Wars Force push. Targeting, affected objects and characters, and the strength of their reactions are open.
 - Durability could be its own special power. Early benefits should feel plausible at human scale, such as recovering quickly from a hard landing or staying on your feet after a heavy impact. Gunfire would still be dangerous at that stage.
 - The strongest abilities could be capstones reserved for players who commit most or all of their power points to one path. Invincibility is a candidate durability capstone. Wide builds would trade access to the highest tier for more ways to solve a problem.
 
 ## Open
 
+- What can each starter power do in ordinary sandbox play? Start by deciding how the telekinetic push is aimed and what it affects. Revisit the first-power reveal once the initial choices are defined.
 - How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
 - How exclusive should a capstone be? Compare committing every point to one path with leaving room for a few starter powers while reserving the highest tier for a single path.
 - Which numeric bonuses belong to attributes or activity skills? Resolve overlapping candidates such as perception and weapon skill before setting the stat list. Decide whether human focus affects time.
