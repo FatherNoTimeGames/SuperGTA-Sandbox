@@ -13,6 +13,7 @@
 - Keep power points limited. A purchase adds an ability or changes how an existing one can be used, giving the build a new way to approach a situation. The ability's associated stat scales the strength of its effect. A telekinetic shove can grow from staggering someone to knocking them down through that stat. XP pacing, purchase costs, and the total budget are open.
 - Keep guns and cars useful across most of progression. Evaluate powers by how they change when a player wants to shoot, drive, or use an ordinary route.
 - The speedster capstone is a manual toggle. While active, it slows the surrounding world and preserves the familiar pace and handling of the player's existing superspeed. The effect stays active when the player stops moving and lasts until toggled off, with unlimited duration and no resource drain.
+- The core chain-lightning move starts by striking one enemy. Each hit can jump to nearby enemies, and its proximity check starts from the enemy just hit.
 
 ## Provisional
 
@@ -35,7 +36,7 @@ Use these references to identify distinct ways to play and useful combinations.
 | Spider-Man | Super strength, powerful jumps and agility, wall and ceiling adhesion, and conventional gadgets that work alongside those powers. |
 | Wolverine and Deadpool | Rapid regeneration. One extreme possibility is a severed limb regenerating into an autonomous duplicate, which adds body states and AI. |
 | Bullseye | Heightened perception and accuracy across ranged weapons. Explore guaranteed accuracy, automatic chained shots, and ricochets as advanced options. |
-| Cole from inFAMOUS | Lightning strikes and especially chain lightning. Explore how targets and the surroundings can shape a chain. |
+| Cole from inFAMOUS | Lightning strikes and [enemy-to-enemy chaining](#confirmed). Conductive props could extend chains as an optional interaction. |
 | Jean Grey | Telekinesis, telepathy, and crowd control through physical or mental effects. |
 | Juggernaut | The combination of strength, durability, momentum, and a battering ram charge. |
 
@@ -44,6 +45,7 @@ Possible interactions include telekinesis positioning a conductive object to ext
 ## Open
 
 - Which power fantasies should 1.0 deliver, and which are achievable through combinations of abilities? Use those answers to choose a revisable roster and path count.
+- Decide whether chain lightning can fork, and how conductive props may extend the enemy-to-enemy chain.
 - Once the roster is defined, decide which stats scale each path and whether its related abilities share that stat or train separately.
 - What can each starter power do in ordinary sandbox play? Define how the telekinetic push is aimed and what it affects when working through that path. Revisit the first-power reveal once the initial choices are defined.
 - How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
