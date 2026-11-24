@@ -9,7 +9,7 @@
 - Human attributes and ordinary skills improve through practice independently of power points, including on a build fully invested in a capstone. They improve the performance of existing actions through numeric bonuses.
 - Sandbox actions feed one shared character XP track, including actions that also train individual skills. Each character level grants one power point.
 - The opening starts with human-scale sandbox play. The first level-up earns the first power point through ordinary sandbox XP, so players learn what their character and equipment can do before adding a power.
-- Keep power points limited. Each purchase should change how a build approaches situations and compete with other worthwhile purchases. XP pacing, purchase costs, and the total budget are open.
+- Keep power points limited. A purchase adds an ability or changes how an existing one can be used, giving the build a new way to approach a situation. The ability's associated stat scales the strength of its effect. A telekinetic shove can grow from staggering someone to knocking them down through that stat. XP pacing, purchase costs, and the total budget are open.
 - Keep guns and cars useful across most of progression. Evaluate powers by how they change when a player wants to shoot, drive, or use an ordinary route.
 - The speedster capstone is a manual toggle. While active, it slows the surrounding world and preserves the familiar pace and handling of the player's existing superspeed. The effect stays active when the player stops moving and lasts until toggled off, with unlimited duration and no resource drain.
 
@@ -26,6 +26,7 @@
 ## Open
 
 - What can each starter power do in ordinary sandbox play? Start by deciding how the telekinetic push is aimed and what it affects. Revisit the first-power reveal once the initial choices are defined.
+- Decide whether related abilities share a power stat or train their strength separately.
 - How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
 - How exclusive should a capstone be? Compare committing every point to one path with leaving room for a few starter powers while reserving the highest tier for a single path.
 - Which numeric bonuses belong to attributes or activity skills? Resolve overlapping candidates such as perception and weapon skill before setting the stat list. Decide whether human focus affects time.
