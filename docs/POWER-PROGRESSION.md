@@ -25,8 +25,9 @@
 
 ## Open
 
-- What can each starter power do in ordinary sandbox play? Start by deciding how the telekinetic push is aimed and what it affects. Revisit the first-power reveal once the initial choices are defined.
-- Decide whether related abilities share a power stat or train their strength separately.
+- How many complete power paths should 1.0 offer, and which playstyles should they support? Set a revisable roster target first.
+- Once the roster is defined, decide which stats scale each path and whether its related abilities share that stat or train separately.
+- What can each starter power do in ordinary sandbox play? Define how the telekinetic push is aimed and what it affects when working through that path. Revisit the first-power reveal once the initial choices are defined.
 - How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
 - How exclusive should a capstone be? Compare committing every point to one path with leaving room for a few starter powers while reserving the highest tier for a single path.
 - Which numeric bonuses belong to attributes or activity skills? Resolve overlapping candidates such as perception and weapon skill before setting the stat list. Decide whether human focus affects time.
