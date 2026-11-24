@@ -37,7 +37,7 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 
 ## Open decisions
 
-- **Next task** — Agree on the target number of [power paths for 1.0](POWER-PROGRESSION.md#open), then choose the roster and the stat that scales each path. Use those choices to define starter interactions, the first-power reveal, and the smallest playable opening sequence.
+- **Next task** — Define the [power fantasies](POWER-PROGRESSION.md#power-fantasy-candidates) and test how their abilities might combine. Use that to decide the 1.0 roster and path count, then assign scaling stats. Starter interactions, the first-power reveal, and the smallest playable opening sequence follow those decisions.
 - Decide how established supers act independently, what public reputation tracks, and how central factions and territory are. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 

@@ -5,6 +5,7 @@
 ## Confirmed
 
 - Supers have human-scale physical capabilities by default. Specific powers create exceptions. Direct street-to-rooftop shortcuts distinguish powers that enable them and preserve the value of ordinary routes.
+- Define the desired power fantasies and their interactions before setting the 1.0 path count. Combine abilities through shared sandbox rules where practical so multiple powers can deliver a fantasy together.
 - Starting powers should feel like Witcher Signs in scale and immediate utility. A short fire blast, a brief speed burst, and a jump onto a one-story roof illustrate the intended scale.
 - Human attributes and ordinary skills improve through practice independently of power points, including on a build fully invested in a capstone. They improve the performance of existing actions through numeric bonuses.
 - Sandbox actions feed one shared character XP track, including actions that also train individual skills. Each character level grants one power point.
@@ -23,9 +24,26 @@
 - Durability could be its own special power. Early benefits should feel plausible at human scale, such as recovering quickly from a hard landing or staying on your feet after a heavy impact. Gunfire would still be dangerous at that stage.
 - The strongest abilities could be capstones reserved for players who commit most or all of their power points to one path. Invincibility is a candidate durability capstone. Wide builds would trade access to the highest tier for more ways to solve a problem.
 
+## Power fantasy candidates
+
+Use these references to identify distinct ways to play and useful combinations.
+
+| Reference | Gameplay to explore |
+| --- | --- |
+| Nightcrawler | Short-range teleportation that can progress to long-range teleportation. |
+| Superman | Flight, super strength, superspeed, eye beams, freezing breath, and invincibility. Explore the flying powerhouse as a combination of capabilities. |
+| Spider-Man | Super strength, powerful jumps and agility, wall and ceiling adhesion, and conventional gadgets that work alongside those powers. |
+| Wolverine and Deadpool | Rapid regeneration. One extreme possibility is a severed limb regenerating into an autonomous duplicate, which adds body states and AI. |
+| Bullseye | Heightened perception and accuracy across ranged weapons. Explore guaranteed accuracy, automatic chained shots, and ricochets as advanced options. |
+| Cole from inFAMOUS | Lightning strikes and especially chain lightning. Explore how targets and the surroundings can shape a chain. |
+| Jean Grey | Telekinesis, telepathy, and crowd control through physical or mental effects. |
+| Juggernaut | The combination of strength, durability, momentum, and a battering ram charge. |
+
+Possible interactions include telekinesis positioning a conductive object to extend a lightning chain, movement and strength contributing to a charge that durability helps sustain, and wall adhesion giving new angles for gadgets or ricochets.
+
 ## Open
 
-- How many complete power paths should 1.0 offer, and which playstyles should they support? Set a revisable roster target first.
+- Which power fantasies should 1.0 deliver, and which are achievable through combinations of abilities? Use those answers to choose a revisable roster and path count.
 - Once the roster is defined, decide which stats scale each path and whether its related abilities share that stat or train separately.
 - What can each starter power do in ordinary sandbox play? Define how the telekinetic push is aimed and what it affects when working through that path. Revisit the first-power reveal once the initial choices are defined.
 - How should durability handle gunfire on the way to its highest tier? Compare continued vulnerability, situational protection, and passive resistance against the value of guns and cover.
