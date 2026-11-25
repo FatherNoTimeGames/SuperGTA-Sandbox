@@ -4,7 +4,7 @@
 
 **Phase** — Design and research
 
-**Current milestone** — Define the smallest playable test of the human-scale GTA-lite sandbox. Godot development requires explicit approval.
+**Current milestone** — Define the smallest playable free-roam block for the human-scale GTA-lite sandbox. Godot development requires explicit approval.
 
 ## Confirmed direction
 
@@ -23,9 +23,9 @@
 
 ## Immediate scope
 
-**Confirmed** — Build a working, fun, human-scale GTA-lite sandbox first. The immediate milestone is free-roam play with ordinary movement, driving, human-scale encounters, and city responses that give player choices consequences.
+**Confirmed** — Build a working, fun, human-scale GTA-lite sandbox first. The first playable is a free-roam block. Ordinary movement, driving, human-scale encounters, and city responses should work together so players can discover situations and see the consequences of their choices.
 
-**Provisional** — Begin with a repeatable free-roam incident that exercises on-foot movement, driving, and a simple police response. Choose the initial destruction test once the core loop is defined.
+**Provisional** — A repeatable incident can test the transitions between on-foot play, driving, and a police response. Evaluate how ordinary vehicles feel and how clearly the city reacts. Choose the initial destruction test once the core loop is defined.
 
 ### Proposed mechanics
 
@@ -51,7 +51,7 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 
 ## Open decisions
 
-- **Next task** — Agree on the smallest repeatable free-roam sequence and what would demonstrate that it works and is fun. Use the [power fantasies](POWER-PROGRESSION.md#power-fantasy-candidates) and their combinations to guide the later 1.0 roster, scaling stats, and first-power reveal.
+- **Next task** — Agree on the first repeatable incident in the block and the behavior it should test. Define what playtest result would justify expanding it. Use the [power fantasies](POWER-PROGRESSION.md#power-fantasy-candidates) and their combinations to guide the later 1.0 roster, scaling stats, and first-power reveal.
 - Decide how established supers act independently and what public reputation tracks. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 
