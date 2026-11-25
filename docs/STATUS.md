@@ -4,7 +4,7 @@
 
 **Phase** — Design and research
 
-**Current milestone** — Define the smallest playable sandbox around one testable question. Godot development requires explicit approval.
+**Current milestone** — Define the smallest playable test of the human-scale GTA-lite sandbox. Godot development requires explicit approval.
 
 ## Confirmed direction
 
@@ -23,7 +23,9 @@
 
 ## Immediate scope
 
-**Provisional** — If a smaller playable milestone is needed, focus on a hero/villain sandbox at human scale with ordinary movement, equipment, and vehicles, plus destructible environments where damage changes play. Power fantasies and their combinations remain part of the release design discussion.
+**Confirmed** — Build a working, fun, human-scale GTA-lite sandbox first. The immediate milestone is free-roam play with ordinary movement, driving, human-scale encounters, and city responses that give player choices consequences.
+
+**Provisional** — Begin with a repeatable free-roam incident that exercises on-foot movement, driving, and a simple police response. Choose the initial destruction test once the core loop is defined.
 
 ### Proposed mechanics
 
@@ -49,7 +51,7 @@ Use both driving and on-foot play before the first power purchase. The proposed 
 
 ## Open decisions
 
-- **Next task** — Decide whether to use the smaller human-scale milestone and choose the smallest scenario that tests how destruction changes a heroic or villainous approach. Use the [power fantasies](POWER-PROGRESSION.md#power-fantasy-candidates) and their combinations to guide the later 1.0 roster, scaling stats, and first-power reveal.
+- **Next task** — Agree on the smallest repeatable free-roam sequence and what would demonstrate that it works and is fun. Use the [power fantasies](POWER-PROGRESSION.md#power-fantasy-candidates) and their combinations to guide the later 1.0 roster, scaling stats, and first-power reveal.
 - Decide how established supers act independently and what public reputation tracks. City layout, tone, narrative structure, and the complete 1.0 experience remain open.
 - Multiplayer is a possible addition. Its format and release scope are open.
 
