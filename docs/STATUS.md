@@ -30,6 +30,8 @@
 
 ### Baseline candidates
 
+**Confirmed** — Replace all assets bundled with any adopted baseline. Preserve the copyright and license notices for reused code and include applicable notices for retained dependencies.
+
 - [Night Drop's Harbor scene](https://github.com/alexbieber/GTA-mini/tree/cfb1f29586886704f44293ff196567bb53e6164d) is a candidate source for MIT-licensed vehicle entry and exit, incident reporting, and pursuit logic. Its Harbor scene launched in Godot 4.7.2 headless, and its game integration test passed 14 checks. The car controller scripts motion with a character body.
 - [Godot Easy Vehicle Physics](https://github.com/frepiso/Godot-v4.x-Easy-Vehicle-Physics-addon/tree/38fd296aaa199211f9ee21a2d5cc6570c9a3a4cf) is a candidate for the player car. Its MIT-licensed controller uses a rigid body with raycast suspension and tunable assists. The demo launched on 4.7.2 headless, with a resource cleanup warning at exit. Driving feel, controller integration, and the recommended 120 Hz physics tick need evaluation on the target hardware.
 - [Open Theft Auto](https://github.com/mehulkapadia5/open-theft-auto/tree/b37e7f3070501dd90353c250e9ad90dffdf4c8b2) is a larger Godot 4.7 reference. Its MIT-licensed code uses scripted vehicle movement and separate asset licenses. The main scene launched in 4.7.2 headless.
